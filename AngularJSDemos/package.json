@@ -1,0 +1,23 @@
+{
+  "name": "AngularJDDemos",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-mocha": "^0.4.10"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "The Visual Studio 2012 solution is designed to run with IIS Express. To open it follow these steps:",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "connect": "~2.11.0",
+    "grunt-cli": "~0.1.13"
+  },
+  "author": "",
+  "license": "ISC"
+}
